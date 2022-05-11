@@ -16,14 +16,14 @@
 <br />
 <br />
 
-Hi, I'm Vishal Isharani, a Full Stack Developer 🚀 from India with 5+ years professional experiance, currently, I'm a Team Member 🙍🏽‍♂️ [@AppsphereLLP](https://github.com/app-sphere-softwares-llp), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/). Beside's programming, I enjoy running (sprinting).
+Hi, I'm Vishal Isharani, a Full Stack Developer 🚀 from India with 5+ years professional experiance, Beside's programming, I enjoy running (sprinting).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Devoteability](https://devoteability.com/);
-- 🌱 I’m currently learning Python and Machine Learning; 
+- 👨🏽‍💻 I’m in love with JavaScript(Especially TypeScript);
+- 🌱 I’m learning Rust nowadays; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: isharanivishal@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1aLgJcRPVkUVgRC9B0Or_ZmTrBJQ4QNxk/view)
